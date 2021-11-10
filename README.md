@@ -21,8 +21,8 @@ these images on-demand (no pre-processing on their side) so the transformed imag
 be used from an <img> tag on a webpage. Your task is to build a service that exposes an
 API implementing an on-demand resize transformation. You will need to design the shape
 of such an API. The endpoint is going to be used inside an <img> tag on a webpage like in
-the following "<img src="https://your-imaginary-api.com/...something here
-that you need to figure out...">. "
+the following (img src="https://your-imaginary-api.com/...something here
+that you need to figure out...). "
 
 The API will receive which image to resize and
 the desired resulting size. Note that the service is not intended to store any image at all, just
