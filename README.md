@@ -22,7 +22,9 @@ be used from an <img> tag on a webpage. Your task is to build a service that exp
 API implementing an on-demand resize transformation. You will need to design the shape
 of such an API. The endpoint is going to be used inside an <img> tag on a webpage like in
 the following <img src="https://your-imaginary-api.com/...something here
-that you need to figure out...">. The API will receive which image to resize and
+that you need to figure out...">. 
+
+The API will receive which image to resize and
 the desired resulting size. Note that the service is not intended to store any image at all, just
 resize on demand the one specified in the input parameters.
 For any doubts on these requirements or the scope of the assignment, please contact us
